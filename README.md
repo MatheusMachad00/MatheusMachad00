@@ -5,7 +5,7 @@
 
 ## Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-My name is Matheus Machado, I have a bachelor's degree in Mechanical Engineering from Faculdade Dos Guararapes, currently I'm taking the full stack development course taught by [Driven Education](https://www.driven.com.br/). I'm from Brazil and I speak both portuguese and english.
+My name is Matheus Machado, I have a bachelor's degree in Mechanical Engineering from [Faculdade Dos Guararapes](https://unifg.edu.br/), currently I'm taking the full stack development course taught by [Driven Education](https://www.driven.com.br/). I'm from Brazil and I speak both portuguese and english.
 <div align="center">
     <img src="https://giffiles.alphacoders.com/100/100585.gif"/><br>
   <sub>“All things change in a dynamic environment. Your effort to remain what you are is what limits you.”<br>Puppet Master, Ghost in the shell (1995)</sub>
