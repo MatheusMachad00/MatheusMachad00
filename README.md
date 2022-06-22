@@ -13,10 +13,12 @@ My name is Matheus Machado, I have a bachelor's degree in Mechanical Engineering
 
 ## 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 
 
 <div align="center">
