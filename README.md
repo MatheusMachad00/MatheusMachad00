@@ -19,6 +19,7 @@ My name is Matheus Machado, I have a bachelor's degree in Mechanical Engineering
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 
 
 <div align="center">
