@@ -1,6 +1,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=MatheusMachad00&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-de-montalverne-machado-44856a180/)](https://www.linkedin.com/in/matheus-de-montalverne-machado-44856a180/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:matheus_m_machado@hotmail.com)](mailto:matheus_m_machado@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-matheusmachado3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmachado3@gmail.com)](mailto:matheusmachado3@gmail.com)
 
 
 ## Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
