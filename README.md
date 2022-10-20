@@ -12,6 +12,7 @@ My name is Matheus Machado, I have a bachelor's degree in Mechanical Engineering
 </div>
 
 ## 
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,6 +29,7 @@ My name is Matheus Machado, I have a bachelor's degree in Mechanical Engineering
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</div>
 
 
 <div align="center">
