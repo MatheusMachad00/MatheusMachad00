@@ -66,12 +66,13 @@
 ##
 
 # Contact:
+</br>
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-de-montalverne-machado/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmachado3@gmail.com)
 
-</br>
 
-##
+
 
 <div align="center">
     <img src="https://giffiles.alphacoders.com/100/100585.gif"/><br>
