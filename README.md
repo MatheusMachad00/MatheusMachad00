@@ -71,6 +71,8 @@
 
 </br>
 
+##
+
 <div align="center">
     <img src="https://giffiles.alphacoders.com/100/100585.gif"/><br>
   <sub>“All things change in a dynamic environment. Your effort to remain what you are is what limits you.”<br>Puppet Master, Ghost in the shell (1995)</sub>
