@@ -74,10 +74,9 @@
 
 </br>
 </br>
-</br>
 
 
 <div align="center">
-    <img hight="600" width="700" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/100585.gif"/><br>
+    <img hight="550" width="650" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/100585.gif"/><br>
   <sub>“All things change in a dynamic environment. Your effort to remain what you are is what limits you.”<br>Puppet Master, Ghost in the shell (1995)</sub>
 </div>
