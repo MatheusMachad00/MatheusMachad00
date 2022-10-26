@@ -3,14 +3,14 @@
 # Konichiwa <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/bATCOMeLuyYAAAAC/hey-there-jo-jos-bizarre-adventure.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/hey-there-jo-jos-bizarre-adventure.gif">
 </div>
 
 ## About ME 💬 :
 
 ### - I'm a full stack developer from brazil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/jthlyFc2Y6UAAAAC/power-presenting.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/power-presenting.gif">
 
 ### - Learning :
 - Algorithms
@@ -57,6 +57,7 @@
 
 ##
 </br>
+
 <div align="center">
   <a href="https://github.com/MatheusMachad00">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusMachad00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -75,6 +76,6 @@
 
 
 <div align="center">
-    <img src="https://giffiles.alphacoders.com/100/100585.gif"/><br>
+    <img src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/100585.gif"/><br>
   <sub>“All things change in a dynamic environment. Your effort to remain what you are is what limits you.”<br>Puppet Master, Ghost in the shell (1995)</sub>
 </div>
