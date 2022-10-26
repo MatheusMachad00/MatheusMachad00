@@ -28,6 +28,8 @@
 ## 
 
 ### - Languages
+<img hight="900" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/yumeko-jabami.gif">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
