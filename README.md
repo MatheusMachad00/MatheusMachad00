@@ -72,10 +72,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-de-montalverne-machado/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmachado3@gmail.com)
 
-
+</br>
+</br>
+</br>
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/100585.gif"/><br>
+    <img hight="600" width="700" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/100585.gif"/><br>
   <sub>“All things change in a dynamic environment. Your effort to remain what you are is what limits you.”<br>Puppet Master, Ghost in the shell (1995)</sub>
 </div>
