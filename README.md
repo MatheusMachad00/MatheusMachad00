@@ -2,10 +2,6 @@
 
 # Konichiwa <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-</br>
-
-## About ME 💬 :
-
 ### - I'm a full stack developer from brazil.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/power-presenting.gif">
