@@ -2,26 +2,26 @@
 
 # Konichiwa <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### - I'm a full stack developer from brazil.
+### - Olá, me chamo Matheus e sou um desenvolverdor FullStack.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/power-presenting.gif">
 
-### - Learning :
-- Algorithms
+### - Estou aprendendo :
+- Algoritimos
 - AWS
 - ORM
 
 ### - Hobbies : 
-- Gaming Addict
-- Watching Anime
-- Reading Mangas
+- Jogar jogos de RPG
+- Assistir animes
+- Ler Mangás
 
 </br>
 
 
 ## 
 
-### - Languages
+### - Linguagens
 <img hight="900" width="450" alt="GIF" align="right" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/yumeko-jabami.gif">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -48,7 +48,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### - Other tools
+### - Outras ferramentas
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -67,7 +67,7 @@
     
 ##
 
-# Contact:
+# Contato:
 </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-de-montalverne-machado/)
