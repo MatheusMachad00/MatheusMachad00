@@ -12,7 +12,7 @@
 - Docker
 
 ### - Hobbies : 
-- Jogar jogos de RPG
+- Jogar
 - Assistir animes
 - Ler Mangás
 
