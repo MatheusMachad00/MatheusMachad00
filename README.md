@@ -9,7 +9,7 @@
 ### - Estou aprendendo :
 - Algorítimos
 - AWS
-- ORM
+- Docker
 
 ### - Hobbies : 
 - Jogar jogos de RPG
