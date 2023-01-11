@@ -7,9 +7,8 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/MatheusMachad00/MatheusMachad00/main/assets/power-presenting.gif">
 
 ### - Estou aprendendo :
-- Algorítimos
-- AWS
-- Docker
+- Java
+
 
 ### - Hobbies : 
 - Jogar
