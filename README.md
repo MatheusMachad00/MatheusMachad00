@@ -8,6 +8,7 @@
 
 ### - Estou aprendendo :
 - Java
+- Spring Boot
 
 
 ### - Hobbies : 
@@ -15,7 +16,6 @@
 - Assistir animes
 - Ler Mangás
 
-</br>
 </br>
 </br>
 
